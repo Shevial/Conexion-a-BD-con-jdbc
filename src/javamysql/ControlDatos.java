@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
-
+//COMENTARIOO
 public class ControlDatos {
     private Conectar conectar;
     private ModeloDatos modelo;
